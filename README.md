@@ -9,5 +9,5 @@ Vue and React frameworks.
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
-[website]: olkaa.github.io/
-[linkedin]: linkedin.com/in/olha-afanasieva/
+[website]: https://olkaa.github.io/
+[linkedin]: https://www.linkedin.com/in/olha-afanasieva/
