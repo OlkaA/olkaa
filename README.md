@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Olha 👋
 
-<!--
-**OlkaA/OlkaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am enthusiastic and highly motivated front-end developer with experience in
+Vue and React frameworks.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working with Whyser, on the tech solution that helps organization to stay focused on strategy in every stage of the process, from idea to execution.
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
+
+[website]: olkaa.github.io/
+[linkedin]: linkedin.com/in/olha-afanasieva/
